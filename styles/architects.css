@@ -192,6 +192,18 @@
 .sponsor-companies img{
   filter: grayscale(100%);
 }
+/* reserved related styles */
+.reserved{
+  background-color: rgba(255, 144, 14, 0.1);
+  margin: 130px 240px;
+}
+
+.last-architect{
+  text-align: center;
+  padding: 38px 410px;
+}
+
+
   /* responsive media query */
   @media screen and (max-width: 576px) {
     .navbar, .nav-links, .teams, .features{
